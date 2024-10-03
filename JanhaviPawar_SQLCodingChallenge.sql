@@ -2,6 +2,8 @@
 
 Create database CarRental
 go
+Use CarRental
+go
 
 CREATE TABLE Vehicle(
 vehicleID INT PRIMARY KEY ,
